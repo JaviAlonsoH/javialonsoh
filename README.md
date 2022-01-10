@@ -1,4 +1,4 @@
-<h1>Javier<h1>👋
+<h1>Javier  </h1><h4>Junior developer</h4>
 
 <br/>
 <!--
