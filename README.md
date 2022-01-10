@@ -1,6 +1,5 @@
-<h1>Javier</h1>
+<h1>Welcome!</h1>
 <br>
-<h4>What will you find here?</h4>
 
 <!--
 **JaviAlonsoH/javialonsoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
